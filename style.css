@@ -1,5 +1,6 @@
-+<style>
-#h1
-color:red;
-size : 200rem;
-</style>
+.active {
+    /* background-color: yellow; */
+    /* text-decoration-color: blueviolet; */
+    /* text-shadow: blue; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
